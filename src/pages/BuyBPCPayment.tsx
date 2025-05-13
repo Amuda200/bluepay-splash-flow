@@ -82,7 +82,7 @@ const BuyBPCPayment = () => {
         <div className="mb-4 border-t pt-4">
           <p className="text-gray-500 text-sm">Account Number</p>
           <div className="flex justify-between items-center">
-            <p className="text-2xl font-bold">1202274817</p>
+            <p className="text-2xl font-bold">5983587945</p>
             <Button 
               variant="default" 
               className="bg-blue-600 hover:bg-blue-700 flex items-center gap-2"
@@ -96,12 +96,12 @@ const BuyBPCPayment = () => {
 
         <div className="mb-4 border-t pt-4">
           <p className="text-gray-500 text-sm">Bank Name</p>
-          <p className="text-2xl font-bold">PAGA </p>
+          <p className="text-2xl font-bold">MONIEPOINT </p>
         </div>
 
         <div className="mb-4 border-t pt-4">
           <p className="text-gray-500 text-sm">Account Name</p>
-          <p className="text-2xl font-bold">LIBERTY CHINEMEREM</p>
+          <p className="text-2xl font-bold">CHIGOZIE DANIEL AMUZIE</p>
         </div>
       </div>
 
